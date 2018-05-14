@@ -5,7 +5,7 @@
 	"keywords": [
 		"paydirekt"
 	],
-	"homepage": "https://github.com/paydirekt/paydirekt-php",
+	"homepage": "https://github.com/boonkerz/paydirekt-php",
 	"license": "MIT",
 	"support": {
 		"docs": "https://www.paydirekt.de/haendler/merchant-api.html"
@@ -31,5 +31,5 @@
 	"scripts": {
 		"test" : "vendor/bin/phpunit"
 	},
-	"version": "4.0.0"
+	"version": "4.0.1"
 }
