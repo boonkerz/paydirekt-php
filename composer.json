@@ -1,5 +1,5 @@
 {
-	"name": "paydirekt/paydirekt-php",
+	"name": "tp/paydirekt-php",
 	"description": "Library that provides functionality to create valid request for the paydirekt REST API",
 	"type": "library",
 	"keywords": [
